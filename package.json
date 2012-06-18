@@ -1,0 +1,18 @@
+{
+  "author": "Travis Collins <travis@tec27.com> (http://tec27.com/)",
+  "name": "throttled-stream",
+  "description": "Stream implementation that throttles its output to a maximum number of bytes per second.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tec27/node-throttled-stream.git"
+  },
+  "keywords": ["streams", "throttling"],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
